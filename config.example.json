@@ -1,0 +1,14 @@
+{
+    "api_key": "",
+    "model_name": "gemini-2.5-flash",
+    "pet_name": "Neko",
+    "work_duration_minutes": 25,
+    "break_duration_minutes": 5,
+    "burnout_threshold_minutes": 50,
+    "sound_enabled": true,
+    "always_on_top": true,
+    "theme": "pastel_peach",
+    "daily_water_count": 0,
+    "daily_stretch_count": 0,
+    "daily_breathing_count": 0
+}

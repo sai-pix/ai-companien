@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.env
+
+# Local user configurations & API credentials
+config.json
+
+# IDE / Editor configs
+.vscode/
+.idea/
+*.swp
+*.swo
